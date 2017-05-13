@@ -1,0 +1,5 @@
+Program function : Test computer memory mountain and get information of computer cache performance.
+Author : sunxin
+Created data : 2017-5-13
+
+file clock.h clock.c fcyc2.h fcyc2.c from github
